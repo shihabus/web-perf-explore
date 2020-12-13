@@ -1,0 +1,43 @@
+function caller() {
+  const p = document.getElementsByTagName("p");
+  console.log("Rogger", p);
+  console.log("Rogger", new Date().getTime());
+}
+
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();
+caller();

@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: aqua;
+  color: green;
+  font-size: 1.5em;
+}
+
+img {
+  margin-top: 20px;
+}
+
+p {
+  color: red;
+}
+
+span {
+  display: none;
+}
